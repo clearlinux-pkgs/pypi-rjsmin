@@ -5,7 +5,7 @@
 #
 Name     : pypi-rjsmin
 Version  : 1.2.1
-Release  : 49
+Release  : 50
 URL      : https://files.pythonhosted.org/packages/8c/76/f0236a34a2c7f49f5b1f59f4b6fda769fc2bf7f90d0aac4cbebbb465646d/rjsmin-1.2.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/8c/76/f0236a34a2c7f49f5b1f59f4b6fda769fc2bf7f90d0aac4cbebbb465646d/rjsmin-1.2.1.tar.gz
 Summary  : Javascript Minifier
@@ -69,7 +69,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1683047679
+export SOURCE_DATE_EPOCH=1685548446
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
