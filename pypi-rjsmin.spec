@@ -7,7 +7,7 @@
 #
 Name     : pypi-rjsmin
 Version  : 1.2.3
-Release  : 55
+Release  : 56
 URL      : https://files.pythonhosted.org/packages/79/f5/f6bb9865991d417a9ef6bbbaad28b6e998dbfb3058ac21af92e93d0f05ae/rjsmin-1.2.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/79/f5/f6bb9865991d417a9ef6bbbaad28b6e998dbfb3058ac21af92e93d0f05ae/rjsmin-1.2.3.tar.gz
 Summary  : Javascript Minifier
